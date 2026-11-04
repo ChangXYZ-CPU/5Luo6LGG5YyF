@@ -1,0 +1,14 @@
+{
+    "arch": "rv32",
+    "bspLocation": "D:/ChangXY/Documents/FD_2026.2/camera_to_dsi_display",
+    "bspName": "camera_to_dsi_display",
+    "chip": "ph1p35",
+    "languageType": "C",
+    "location": "D:/ChangXY/Documents/FD_2026.2/uart",
+    "name": "uart",
+    "os": "standalone",
+    "processor": "rpu",
+    "templateName": "HELLOWORLD",
+    "toolVersion": "862c784 (2026-09-02-16:28)",
+    "type": "application"
+}

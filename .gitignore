@@ -1,0 +1,14 @@
+td_project/camera_to_dsi_display_Runs/
+td_project/log/
+firmware/uart/build/
+*.log
+*.logw
+*.dmp
+*.o
+*.d
+*.elf
+*.bin
+*.db
+*.bit
+td_project/.lock.f
+td_project/.recent_*
